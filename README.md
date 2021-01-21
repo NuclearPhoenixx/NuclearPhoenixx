@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: This is a new [Github secret](https://youtu.be/dQw4w9WgXcQ)!
+
 <!--
 **Phoenix1747/Phoenix1747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
