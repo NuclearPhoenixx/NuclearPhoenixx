@@ -1,9 +1,16 @@
+<div align="center">
+
 ### Hi there 👋
+
+---
 
 ![github-stats overview](https://github.com/Phoenix1747/github-stats/blob/master/generated/overview.svg)
 ![github-stats languages](https://github.com/Phoenix1747/github-stats/blob/master/generated/languages.svg)
 
 _Statistics by [jstrieb/github-stats](https://github.com/jstrieb/github-stats)._
+
+</div>
+
 
 <!--
 ⚡ Fun fact: This is a [Github secret](https://youtu.be/cvh0nX08nRw)!
