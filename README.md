@@ -9,7 +9,7 @@
 
 </div>
 
-_Statistics by [jstrieb/github-stats](https://github.com/jstrieb/github-stats)._
+_Statistics by [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (language stats ignore organizations)._
 
 <!--
 ⚡ Fun fact: This is a [Github secret](https://youtu.be/cvh0nX08nRw)!
