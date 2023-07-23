@@ -4,8 +4,8 @@
 
 <div align="center">
 
-![github-stats overview](https://github.com/Phoenix1747/github-stats/blob/master/generated/overview.svg)
-![github-stats languages](https://github.com/Phoenix1747/github-stats/blob/master/generated/languages.svg)
+![github-stats overview](https://github.com/NuclearPhoenixx/github-stats/blob/master/generated/overview.svg)
+![github-stats languages](https://github.com/NuclearPhoenixx/github-stats/blob/master/generated/languages.svg)
 
 </div>
 
@@ -16,7 +16,7 @@ _Statistics by [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (
 -->
 
 <!--
-**Phoenix1747/Phoenix1747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NuclearPhoenixx/NuclearPhoenixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
